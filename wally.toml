@@ -1,6 +1,7 @@
 [package]
-name = "vainc/signalplus"
+name = "vaincrestos/signalplus"   # all lowercase
 version = "0.1.0"
+license = "MIT"                   # REQUIRED
 registry = "https://github.com/UpliftGames/wally-index"
 realm = "shared"
 
