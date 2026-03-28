@@ -6,6 +6,7 @@ This is a Wally-compatible fork of SignalPlus, modified for modern Luau.
 - Added `--!strict`
 - Fixed type issues
 - Structured for Wally packaging
+- Signal+ Version v3.7.2
 
 ## Original Project
 SignalPlus by AlexanderLindholt:
